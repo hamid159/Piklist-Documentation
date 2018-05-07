@@ -10,8 +10,8 @@ You can use Piklist field parameters to customize this field.
 
 ```
 piklist('field', array(
-    'type' => 'html',
-    ,'label' => 'HTML Field',
+    'type' => 'html'
+    ,'label' => 'HTML Field'
     ,'value' => '<strong>This is some html</strong>'
   ));
 ```
